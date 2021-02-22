@@ -1,5 +1,6 @@
 # W.A.M.P
  Custom wamp PHP based server UI 
+ ![Sample Image](https://github.com/musicmeetscode/wamp/blob/master/sample/sample.png?raw=true)
 
  **Warning!! Do not clone this repo into your localhost directly as it might affect your project level repositories**
 
